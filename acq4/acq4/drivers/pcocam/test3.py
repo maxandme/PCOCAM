@@ -1,7 +1,7 @@
 import sys
 sys.path.append('..\\..\\..\\')
 
-import pcocam
+from pcocam import *
 
 
 paramValues = {}
